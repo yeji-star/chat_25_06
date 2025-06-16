@@ -11,4 +11,5 @@ public class RsData<T> {
     private String resultCode;
     private String msg;
     private T data;
+
 }
